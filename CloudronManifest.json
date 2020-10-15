@@ -8,11 +8,10 @@
   "healthCheckPath": "/",
   "httpPort": 80,
   "addons": {
-    "localstorage": {}
   },
   "icon": "file://icon.png",
   "manifestVersion": 2,
-  "website": "https://www.json-compare.rossmac.co.uk",
+  "website": "https://json-compare.rossmac.co.uk",
   "contactEmail": "support@rossmac.co.uk",
   "tags": [ "utility", "web" ]
 }
